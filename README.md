@@ -32,4 +32,4 @@ December Summary Statistics
 
 #### Summary
 
-The average tempetures for both months range in the mid to lower 70's. The min temp for June is 64 degrees and max temp 85 degrees. The  min temp for December is 56 degrees and max temp 83 degrees. The weather trends for summmer as well as for winter appears to have favoriable weather conditions for a succesful surf and ice cream shop year-round. Two additional queries should be conducted on for both months rain trends.
+The average temperatures for both months range in the mid to lower 70's. The min temp for June is 64 degrees and max temp 85 degrees. The  min temp for December is 56 degrees and max temp 83 degrees. The weather trends for summmer as well as for winter appears to have favoriable weather conditions for a successful surf and ice cream shop year-round. Two additional queries should be conducted for both months rain trends.
